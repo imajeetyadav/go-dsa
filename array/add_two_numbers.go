@@ -34,3 +34,7 @@ func equalizeLengths(num1, num2 []int) ([]int, []int) {
 	}
 	return num1, num2
 }
+
+func test() {
+
+}
